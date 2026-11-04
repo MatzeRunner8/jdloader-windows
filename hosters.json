@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "minBuild": 3,
+  "hosters": [
+    { "id": "rapidgator", "type": "rapidgator", "name": "Rapidgator", "domains": ["rapidgator.net", "rg.to", "rapidgator.asia"], "api": "https://rapidgator.net/api/v2/" },
+    { "id": "nitroflare", "type": "nitroflare", "name": "Nitroflare", "domains": ["nitroflare.com", "nitro.download", "nitroflare.net"], "api": "https://nitroflare.com/api/v2/" },
+    { "id": "ddownload", "type": "xfs", "name": "DDownload", "domains": ["ddownload.com", "ddl.to"], "api": "https://api-v2.ddownload.com/api/" },
+    { "id": "katfile", "type": "xfs", "name": "Katfile", "domains": ["katfile.com", "katfile.cloud", "katfile.online"], "api": "https://katfile.com/api/" }
+  ]
+}
